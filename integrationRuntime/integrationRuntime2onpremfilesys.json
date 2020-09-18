@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime2onpremfilesys",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
